@@ -1,0 +1,11 @@
+{
+  "name": "skidka",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {
+    "start": "lite-server"
+  }
+}

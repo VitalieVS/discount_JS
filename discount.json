@@ -1,0 +1,12 @@
+{
+  "vouchers": [
+    {"code":"X5B3", "discount":  "3"},
+    {"code":"X5B4", "discount":  "5"},
+    {"code":"X5B5", "discount":  "10"}
+  ],
+  "cards": [
+    {"code":"4004-1234-2123-9949", "discount":  "50"},
+    {"code":"4004-1234-2123-9299", "discount":  "100"},
+    {"code":"4004-1234-2123-9199", "discount":  "150"}
+  ]
+}
